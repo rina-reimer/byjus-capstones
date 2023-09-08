@@ -2,18 +2,19 @@
 A collection of my capstone projects from BYJU's FutureSchool.
 
 ### Table of Contents
-> * [Rock Paper Scissors](https://github.com/rina-reimer/byjus-capstones/edit/main/README.md#rock-paper-scissors-august-2020)
-> * [Sieve Of Eratosthenes](https://github.com/rina-reimer/byjus-capstones/edit/main/README.md#sieve-of-eratosthenes-august-2020)
-> * [Gender Voices Classification](https://github.com/rina-reimer/byjus-capstones/edit/main/README.md#gender-voices-classification-november-2020)
-> * [Pulsar Star Prediction](https://github.com/rina-reimer/byjus-capstones/edit/main/README.md#Pulsar-Star-Prediction-december-2020)
-> * [Bengaluru House Prices](https://github.com/rina-reimer/byjus-capstones/edit/main/README.md#bengaluru-house-prices-january-2021)
-> * [Guess a Word](https://github.com/rina-reimer/byjus-capstones/edit/main/README.md#guess-a-word-may-2021)
-> * [Internet of Things](https://github.com/rina-reimer/byjus-capstones/edit/main/README.md#internet-of-things-august-2021)
-> * [Life Expectancy Analysis](https://github.com/rina-reimer/byjus-capstones/edit/main/README.md#life-expectancy-analysis-january-2022)
-> * [Payroll Calculation OOP](https://github.com/rina-reimer/byjus-capstones/edit/main/README.md#payroll-calculation-OOP-january-2022)
-> * [Diamond Price Prediction](https://github.com/rina-reimer/byjus-capstones/edit/main/README.md#diamond-price-prediction-march-2022)
-> * [House Price Prediction](https://github.com/rina-reimer/byjus-capstones/edit/main/README.md#House-price-prediction-june-2022)
-> * [Olivetti Faces Case-Study](https://github.com/rina-reimer/byjus-capstones/edit/main/README.md#Olivetti-Faces-Case-Study-november-2022)
+> * [Rock Paper Scissors](https://github.com/rina-reimer/byjus-capstones/#rock-paper-scissors-august-2020)
+> * [Sieve Of Eratosthenes](https://github.com/rina-reimer/byjus-capstones/#sieve-of-eratosthenes-august-2020)
+> * [Gender Voices Classification](https://github.com/rina-reimer/byjus-capstones/#gender-voices-classification-november-2020)
+> * [Pulsar Star Prediction](https://github.com/rina-reimer/byjus-capstones/#Pulsar-Star-Prediction-december-2020)
+> * [Bengaluru House Prices](https://github.com/rina-reimer/byjus-capstones/#bengaluru-house-prices-january-2021)
+> * [Guess a Word](https://github.com/rina-reimer/byjus-capstones/#guess-a-word-may-2021)
+> * [Internet of Things](https://github.com/rina-reimer/byjus-capstones/#internet-of-things-august-2021)
+> * [Life Expectancy Analysis](https://github.com/rina-reimer/byjus-capstones/#life-expectancy-analysis-january-2022)
+> * [Payroll Calculation OOP](https://github.com/rina-reimer/byjus-capstones/#payroll-calculation-OOP-january-2022)
+> * [Diamond Price Prediction](https://github.com/rina-reimer/byjus-capstones/#diamond-price-prediction-march-2022)
+> * [House Price Prediction](https://github.com/rina-reimer/byjus-capstones/#House-price-prediction-june-2022)
+> * [Olivetti Faces Case-Study](https://github.com/rina-reimer/byjus-capstones/#Olivetti-Faces-Case-Study-november-2022)
+
 
 ## [Rock Paper Scissors](rockPaperScissors.py) August 2020
 ### The Algorithm
